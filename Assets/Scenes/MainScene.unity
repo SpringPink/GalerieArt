@@ -501,6 +501,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CameraPlayer
       objectReference: {fileID: 0}
+    - target: {fileID: 8051934598286444990, guid: af2c7a8701ef2de4db834c6f9b18fdaa, type: 3}
+      propertyPath: _paint
+      value: 
+      objectReference: {fileID: 2801217115270301342, guid: 8dcca1319a538dd46974bbeff610495a, type: 3}
     - target: {fileID: 8253113668762367349, guid: af2c7a8701ef2de4db834c6f9b18fdaa, type: 3}
       propertyPath: m_LocalPosition.x
       value: 15
